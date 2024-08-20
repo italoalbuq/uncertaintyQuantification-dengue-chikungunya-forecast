@@ -1,1 +1,1 @@
-# uncertaintyQuantification-dengue-chikungunya-prediction
+# uncertaintyQuantification-dengue-chikungunya-forecast
